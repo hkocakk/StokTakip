@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmMüşteriEkle.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmSatis.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.Properties.Resources.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ErbosanUygulama\bin\Debug\ErbosanUygulama.exe.config
+C:\Users\user\source\repos\ErbosanUygulama\bin\Debug\ErbosanUygulama.exe
+C:\Users\user\source\repos\ErbosanUygulama\bin\Debug\ErbosanUygulama.pdb
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.exe
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.pdb
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmMüşteriListele.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmÜrünEkle.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmÜrünListele.resources
+C:\Users\user\source\repos\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmSatışListele.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\bin\Debug\ErbosanUygulama.exe.config
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\bin\Debug\ErbosanUygulama.exe
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\bin\Debug\ErbosanUygulama.pdb
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmMüşteriEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmMüşteriListele.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmSatis.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmSatışListele.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmÜrünEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.frmÜrünListele.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.exe
+C:\Users\user\OneDrive\Masaüstü\Yeni klasör\ErbosanUygulama\obj\Debug\ErbosanUygulama.pdb
