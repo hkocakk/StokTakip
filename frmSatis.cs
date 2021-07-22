@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 
-namespace ErbosanUygulama
+namespace stokTakipUygulama
 {
     public partial class frmSatis : Form
     {
@@ -19,7 +19,7 @@ namespace ErbosanUygulama
             InitializeComponent();
         }
 
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-4OHKRU8\\SQLEXPRESS05;Initial Catalog=ErbosanUygulama;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-4OHKRU8\\SQLEXPRESS05;Initial Catalog=stokTsakipUygulama;Integrated Security=True");
         DataSet daset = new DataSet();
 
         private void sepetListele()
