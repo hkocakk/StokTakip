@@ -1,5 +1,5 @@
 ﻿
-namespace ErbosanUygulama
+namespace stokTakipUygulama
 {
     partial class frmMüşteriEkle
     {
